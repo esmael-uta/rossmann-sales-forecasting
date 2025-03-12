@@ -3,7 +3,19 @@ This repository contains a modular and well-structured pipeline for training, ev
 
 ## 📂 Project Structure
 
-├── scripts/ # Data processing & model training scripts │ ├── load_data.py │ ├── check_data.py │ ├── clean_data.py │ ├── train_model.py │ ├── evaluate_model.py │ ├── requirements.txt │ ├── api.py # FastAPI deployment script │ ├── Dockerfile # Docker configuration │ ├── artifacts/ # Saved models & preprocessors │ ├── tests/ # Unit & Integration Tests │ ├── test_clean_data.py │ ├── test_train_model.py │ ├── test_api.py │ ├── README.md # General project documentation ├── requirements.txt # Python dependencies ├── .gitignore # Ignored files
+├── scripts/ # Data processing & model training scripts 
+│ ├── load_data.py 
+│ ├── check_data.py 
+│ ├── clean_data.py 
+│ ├── train_model.py 
+│ ├── evaluate_model.py 
+│ ├── api.py  
+│ ├── test_clean_data.py 
+│ ├── test_train_model.py 
+│ ├── test_api.py 
+│ ├── README.md  
+├── requirements.txt # Python dependencies 
+├── .gitignore # Ignored files
 
 
 ## 📜 Features
