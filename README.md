@@ -3,7 +3,7 @@ This repository contains a modular and well-structured pipeline for training, ev
 
 ## 📂 Project Structure
 
-├── scripts/ # Data processing & model training scripts 
+├── scripts
 │ ├── load_data.py 
 │ ├── check_data.py 
 │ ├── clean_data.py 
