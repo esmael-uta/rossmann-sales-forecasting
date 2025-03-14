@@ -23,7 +23,7 @@ This repository contains a modular and well-structured pipeline for training, ev
 - **Data Loading & Preprocessing**: Handling missing values, feature encoding, and outlier detection.
 - **Model Training & Evaluation**: Training with Scikit-learn, logging metrics, and hyperparameter tuning.
 - **Unit & Integration Testing**: Automated tests for each component.
-- **API Deployment**: Exposing the trained model via FastAPI.
+- **API Deployment**: Exposing the trained model via FlaskAPI.
 - **Docker Integration**: Easily deployable with Docker.
 
 ## 🚀 Getting Started
